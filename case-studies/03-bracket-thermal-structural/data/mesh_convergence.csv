@@ -1,0 +1,6 @@
+mesh_level,domain_elements,fillet_1_MPa,fillet_2_MPa,bolt_hole_MPa
+Normal,4029,69.41,70.81,200.52
+Fine,9471,72.11,73.51,227.97
+Finer,16623,71.84,65.59,207.90
+Extra Fine,38120,66.92,72.08,221.83
+Extremely Fine,115621,71.29,71.06,251.70

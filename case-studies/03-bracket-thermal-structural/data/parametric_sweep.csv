@@ -1,0 +1,6 @@
+wind_load_factor,fillet_stress_25C_MPa,fillet_stress_70C_MPa,delta_due_to_dT_pct
+0.2,16.84,16.91,0.42
+0.4,33.79,33.85,0.18
+0.6,50.73,50.80,0.14
+0.8,67.63,67.75,0.18
+1.0,84.63,84.70,0.08

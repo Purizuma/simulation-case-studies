@@ -15,7 +15,7 @@ Full client-facing reports and freelance simulation engineering services availab
 |---|---|---|---|
 | 01 | [Heatsink thermal validation](case-studies/01-heatsink-thermal/) | Steady-state heat transfer | Fails at h=10 W/m²K (103.8°C), passes at h=15 W/m²K (76.1°C) |
 | 02 | [Copper busbar electro-thermal](case-studies/02-busbar-electrothermal/) | Joule heating (Electric Currents + Heat Transfer) | Rated 30A → 20.2°C; tolerates ~430A before 50°C reliability threshold |
-| 03 | [Solar bracket thermal-structural](case-studies/03-bracket-thermal-structural/) | Structural + thermal, ASCE 7 wind load | *In progress* |
+| 03 | [Solar bracket thermal-structural](case-studies/03-bracket-thermal-structural/) | Structural + thermal (Solid Mechanics + Heat Transfer + Thermal Expansion), ASCE 7 wind load | SF ≈ 3.25 vs. yield at governing fillets; wind load dominates, thermal cycling contributes <0.2% |
 
 ## Why this matters (methodology, not just geometry)
 

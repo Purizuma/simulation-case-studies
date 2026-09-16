@@ -7,7 +7,7 @@ Workflow: **Fusion 360 (API-scripted geometry) → COMSOL Multiphysics (physics 
 mesh convergence, parametric study) → analytical cross-validation → engineering report.**
 
 Full client-facing reports and freelance simulation engineering services available via
-[Upwork](#) *(add your Upwork profile link here)*.
+[Upwork](https://www.upwork.com/freelancers/antoniusp).
 
 ## Case studies
 
